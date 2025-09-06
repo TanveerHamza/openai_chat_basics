@@ -47,5 +47,13 @@ for q in questions:
     conversation.append(resp_dict)
 
 
+# The answer should be this or something like this
 
-# Add as many cells as you like
+
+# The distance from the Louvre to the Eiffel Tower is approximately 2 miles (about 3.2 kilometers) when driving. The actual travel distance may vary slightly depending on the route taken.
+# The Arc de Triomphe is located at the western end of the Champs-Élysées in Paris, France. It stands at the Place Charles de Gaulle, which is a large junction where several major roads converge. The monument honors those who fought and died for France during the French Revolutionary and Napoleonic Wars and is one of the most famous landmarks in the city.
+# The Louvre Museum is home to countless masterpieces, but some must-see artworks include:
+
+# 1. **Mona Lisa** by Leonardo da Vinci - Perhaps the most famous painting in the world, known for its enigmatic expression.
+# 2. **Venus de Milo** - An ancient Greek statue representing the goddess Aphrodite, celebrated for its beauty and artistry.
+# 3. **Winged Victory of Samothrace** - A stunning Hellenistic sculpture of the goddess Nike, known for its dynamic pose and intricate
